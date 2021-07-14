@@ -9,6 +9,6 @@ int main()
     // IO
     int n;
     cin >> n;
-    cout << "Hello " << n;
+    cout << "Hello " << n << " some change";
     return 0;
 }
